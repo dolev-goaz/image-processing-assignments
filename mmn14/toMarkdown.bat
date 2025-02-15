@@ -1,0 +1,1 @@
+pandoc %1.docx -o %1.md
